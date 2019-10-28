@@ -1,3 +1,14 @@
+**INTRANET ESTRADA VELASQUEZ Y CIA SAS (Desarrollo)**
+====================
+
+**INTRODUCCIÓN**
+-
+Es el ambiente de desarrollo.
+Es copia fiel de la que actualmente esta en producción a Octubre/28/2019.
+Implementada en Joomla, es la puerta de acceso y la gestión de contenido y de todas las démas aplicaciones WEB que se manejan en Estrada Velasquez. 
+Corre en la IP 5.
+
+
 Joomla! CMS [![Analytics](https://ga-beacon.appspot.com/UA-544070-3/joomla-cms/readme)](https://github.com/igrigorik/ga-beacon)
 ====================
 
