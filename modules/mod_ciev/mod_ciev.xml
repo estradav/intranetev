@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <extension type="module" version="3.1.0" client="site" method="upgrade">
+ <name>Hola mundo!</name>
+ <author>Nombre del creador</author>
+ <version>1.0.1</version>
+ <description>Un "hola mundo" de los módulos.</description>
+ <files>
+ <filename>mod_ciev.xml</filename>
+ <filename module="mod_holamundo">mod_ciev.php</filename>
+ <filename>index.html</filename>
+ <filename>helper.php</filename>
+ <filename>tmpl/default.php</filename>
+ <filename>tmpl/index.html</filename>
+ </files>
+ <config>
+ </config>
+ </extension>

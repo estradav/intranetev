@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5.0" type="file" method="upgrade">
+	<name>MijoPolls</name>
+	<creationDate>11/04/2014</creationDate>
+	<author>Mijosoft</author>
+	<authorEmail>info@mijosoft.com</authorEmail>
+	<authorUrl>http://www.mijosoft.com/</authorUrl>
+	<copyright>2009-2014 Mijosoft LLC</copyright>
+	<description>Spanish (es-ES) language files installed MijoPolls.</description>
+	<version>3.3.6</version>
+	<tag>es-ES.</tag>
+	
+	<fileset>
+	<!--	<files folder="admin" target="administrator/language/es-ES">
+		<filename>es-ES.com_mijopolls.ini</filename>
+		<filename>es-ES.com_mijopolls.menu.ini</filename>
+    </files>!-->
+    <files folder="site" target="language/es-ES">
+		<filename>es-ES.com_mijopolls.ini</filename>
+		<filename>es-ES.mod_mijopolls.ini</filename>
+    </files>
+  </fileset>
+</extension>
+
